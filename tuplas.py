@@ -5,7 +5,6 @@ Consumen menos memoria de la listas
 son mas rapidas
 Pero...Despues de crearlas son inmodificables
 '''
-
 tupla01 = ('Lunes', 'Martes', 'Miercoles')
 print(tupla01, '\n')
 

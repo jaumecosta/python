@@ -1,0 +1,3 @@
+import pru
+#IMPORTAR VARIABLES DESDE OTRO ARCHIVO
+pru.cosa()

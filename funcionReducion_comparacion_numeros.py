@@ -1,5 +1,5 @@
 #COMPARACION NUMEROS mayor y menor
-
+#LISTAS
 def menorque():
     a = float(input('a ->'))
     b = float(input('b ->'))
@@ -15,7 +15,7 @@ def menorque():
 
 
 menorque()
-
+#CONJUNTO
 def tripleAnalisis():
     conjuntoA = {float(input('a ->'))}
     conjuntoB = {float(input('b ->'))}
